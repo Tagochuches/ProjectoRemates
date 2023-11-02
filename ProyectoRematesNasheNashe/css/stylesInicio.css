@@ -1,0 +1,144 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:ital,wght@1,500&display=swap');
+
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    padding: 10px;
+    background-color:  rgb(129, 161, 129);
+
+}
+body{
+    min-height: 100vh;
+}
+.iconNashe{
+    height: 100px;
+    margin-right: 10px;
+    align-items: center;
+}
+.Contacto{
+    padding: 1em 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color:  rgb(129, 161, 129);
+
+}
+
+
+a{
+    
+    text-decoration: none;
+    color: #fff;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
+nav a:hover{
+    color: rgb(48, 84, 48);
+}
+
+.logo{
+    
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    
+    height: 50px;
+    margin-right: 10px;
+    
+}
+
+
+.ImgVaca{
+    
+    border-radius: 10%;
+    margin-left: 25rem;
+    margin-top: 5rem;
+    height: 420px;
+    width: 415px;
+}
+.ImgCerdo{
+
+    border-radius: 10%;
+    margin-left: 25rem;
+    margin-top: 5rem;
+    height: 420px;
+    width: 415px;
+}
+
+.containerVaca{
+    
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-top: -25rem;
+    margin-right: 17rem;
+    
+}
+thead{
+    
+    background-color: #bfcabd;
+}
+th{
+    
+    border-radius: 1%;
+    padding: 20px 15px;
+}
+td{
+    
+    padding: 15px;
+    border-bottom: solid 1px ;
+}
+tbody tr{
+    cursor: pointer;
+}
+
+tbody tr:hover{
+    
+    background-color: #acb4ab;
+}
+
+.containerCerdo{
+    padding-bottom: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-top: -25rem;
+    margin-right: 17rem;
+    
+}
+thead{
+    
+    background-color: #bfcabd;
+}
+th{
+    border-radius: 1%;
+    padding: 20px 15px;
+}
+td{
+    padding: 15px;
+    border-bottom: solid 1px ;
+}
+tbody tr{
+    cursor: pointer;
+}
+
+tbody tr:hover{
+    background-color: #acb4ab;
+}
+
+
