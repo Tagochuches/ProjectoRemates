@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:ital,wght@1,500&display=swap');
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    padding: 10px;
+    background-color:  rgb(129, 161, 129);
+
+}
+
+body{
+    min-height: 100%;
+    
+    
+}
+
+.sobreNosotros1{
+    
+    display: flexbox;
+}
+
+.sobre
+
+.iconNashe{
+    height: 100px;
+    margin-right: 10px;
+    align-items: center;
+}
+.Contacto{
+    
+    padding: 1em 0;
+    text-align: center;
+    position: relative;
+    margin-top: auto;
+    width: 100%;
+    background-color:  rgb(129, 161, 129);
+
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
+nav a:hover{
+    color: rgb(48, 84, 48);
+}
+
+.logo{
+    
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 50px;
+    margin-right: 10px;
+    
+}
+
+body {
+   
+    
+    margin: 0;
+    font-family:'Poppins', sans-serif;
+    
+}
+
+.imgGanado{
+    border-radius: 1%;
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 777px;
+    width: 1000px;
+
+}
+
+.txt{
+    border-radius: 1%;
+    padding: 10px;
+    background-color:  rgb(129, 161, 129);
+    color: #ffff;
+    margin-right: 1rem;
+    margin-left: 67rem;
+    margin-top: -49rem;
+    
+ 
+
+
+    font-family: 'Poppins', sans-serif;
+}
+.imgCabras{
+    border-radius: 1%;
+    margin-top: 5rem;
+    margin-left: 67rem;
+    height: 720px;
+    width: 720px;
+    padding-bottom: 10em;
+}
+.txt1{
+    color: #ffff;
+    border-radius: 1%;
+    padding: 5px;
+    background-color:  rgb(129, 161, 129);
+    margin-top: -885px ;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 15px;
+    height: 700px;
+    width: 1000px;
+}
